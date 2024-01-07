@@ -1,0 +1,9 @@
+apple apple banana orange
+apple cat dog
+1apple 2banana 3orange
+
+Number of words starting with a vowel: 4
+Number of words with an odd number of consonant letters: 5
+apple apple banana orange
+apple cat dog
+apple banana orange

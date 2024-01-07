@@ -1,0 +1,3 @@
+apple apple banana orange
+apple cat dog
+1apple 2banana 3orange
